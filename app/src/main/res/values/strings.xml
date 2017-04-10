@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ChatTwoFragment</string>
+
+    <!--MainActivity-->
+    <string name="case1Title">Dùng Arguments</string>
+    <string name="case2Title">Dùng Interface</string>
+    <string name="btnCase1">Cách 1</string>
+    <string name="btnCase2">Cách 2</string>
+
+
+    <string name="btnSwitch">Chuyển fragment</string>
+    <string name="btnSend">Send</string>
+
+
+</resources>
